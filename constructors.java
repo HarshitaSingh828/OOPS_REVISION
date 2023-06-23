@@ -97,4 +97,3 @@ public class constructors {
     System.out.println(e2.name+ " " +e2.empid);
   } 
 }
-
