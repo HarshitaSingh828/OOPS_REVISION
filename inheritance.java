@@ -151,3 +151,55 @@
     // obj3.showC();
 //   }
 // }
+
+// we dont have multiple inheritance in java coz let say we have a method in
+//  class a as show and in class b as show then if c cls extends it so it will get
+//   confuse to which cls method it call.
+// and will give ambiguity error  and refer 2nd image of readme
+//multiple inheritance
+
+// class A{
+//   void show(){
+//     System.out.println("I am in method A");
+//   }
+// }
+// class B {
+//   void show(){
+//     System.out.println("I am in method B");
+//   }
+// }
+// class C extends A B{
+//   void show(){
+//     System.out.println("I am in method C");
+//   }
+// }
+// class inheritance{
+//   public static void main(String[]args){
+//     C obj = new C();
+//     obj.show();
+//   }
+// }
+
+//if there is only one class it will inherit object class every class in java inherit some other class.
+//object cls is the parent cls 
+
+
+//we cannot inherit constructor and private method of parent class.
+
+class A{
+  A(){
+    System.out.println("its raining");
+  }
+ private void AA(){
+    System.out.println("I am happy");
+  }
+}
+class B extends A{
+
+}
+class inheritance{
+  public static void main(String[]args){
+    B bb = new B();
+    bb.AA();
+  }
+}
