@@ -186,20 +186,20 @@
 
 //we cannot inherit constructor and private method of parent class.
 
-class A{
-  A(){
-    System.out.println("its raining");
-  }
- private void AA(){
-    System.out.println("I am happy");
-  }
-}
-class B extends A{
+// class A{
+//   A(){
+//     System.out.println("its raining");
+//   }
+//  private void AA(){
+//     System.out.println("I am happy");
+//   }
+// }
+// class B extends A{
 
-}
-class inheritance{
-  public static void main(String[]args){
-    B bb = new B();
-    bb.AA();
-  }
-}
+// }
+// class inheritance{
+//   public static void main(String[]args){
+//     B bb = new B();
+//     bb.AA();
+//   }
+// }
