@@ -1,5 +1,5 @@
 // inheritance in java  means inheriting the properties of parent class to child class.
-// inheritance can be achieved using extends keywords
+// inheritance can be achieved using extends keywords 
 //what kind of relationship do we have between animal and class?
 //Dog IS-A Animal , Sparrow IS-A Bird 
 //inheritance always have IS-A relationship
