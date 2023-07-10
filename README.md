@@ -9,3 +9,5 @@ TYPES OF INHERITANCE
 ![image](https://github.com/HarshitaSingh828/OOPS_REVISION/assets/68939473/d92031ba-fbd7-46fe-af62-ab3cf2874269)
 
 ![image](https://github.com/HarshitaSingh828/OOPS_REVISION/assets/68939473/4e1b9a8c-007f-4a40-82e2-3d87f334b703)
+
+![Alt text](image.png)
