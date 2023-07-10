@@ -1,3 +1,4 @@
+//this keyword refers to current cls object
 //this keyword is a reference variable that refers to the current cls instance variable and 
 //refernce variable is a variable that refers to an object.
 // public class thiskeyword {
