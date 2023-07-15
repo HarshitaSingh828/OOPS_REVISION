@@ -12,3 +12,4 @@ TYPES OF INHERITANCE
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+<img width="960" alt="image" src="https://github.com/HarshitaSingh828/OOPS_REVISION/assets/68939473/014adbc1-5267-4c3c-a8f8-e30a0d7c913e">
